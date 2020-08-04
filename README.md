@@ -4,7 +4,7 @@ Create worksheets, dashboards, stories from New York City bike-sharing data.
 ---
 
 # Citibike NYC Analysis
-The citibike program in New York City seems to be thriving based on a recent analysis of bike ridesharing data from August 2019. Among the 2 million rides, bike sharing was largely dominated by male riders at 72.2%. The average trip duration tends to be similar for riders born 1960s-1980 (despite the hike in 1969). There is small upward trend among millinials.
+The citibike program in New York City seems to be thriving based on a recent analysis of bike ridesharing data from August 2019. Among the 2 million rides, bike sharing was largely dominated by male riders at 72.2%. The average trip duration tends to be similar for riders born 1960s-1980 (despite the hike in 1969). There is small upward trend among millennials.
 
 # Citebike Des Moines Potential
 Citibike NYC showed there is a potential to expand bike sharing services to Des Moines, Iowa. Although bikesharing services is mostly utilized by male riders, female riders also tend to be consistent in their bike riding usage. According to the U.S. Census Bureau, De Moise's female population ratio appears to be similar to NYC's. De Moise is comprised of 50.8% female whereas NYC is comprised of 52.3%. This could be an indication that rideship among females in De Moise could lead to similar trends.
