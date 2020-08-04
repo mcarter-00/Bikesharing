@@ -14,7 +14,7 @@ According to the De Moise's tourism website, there are three popular trails that
 Check out the dashboard for further analysis:
 [link to dashboard](https://public.tableau.com/profile/maria.carter4729#!/vizhome/Bikesharing_15871942778210/Story?publish=yes)
 
-![Bikesharing Dashboard](Bikesharing_Dashboard.png)
+![BikeSharing Dashboard](BikeSharing_Dashboard.png)
 
 # Sources
 - https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa,US/PST045219
