@@ -1,8 +1,6 @@
 # Bikesharing
 Create worksheets, dashboards, stories from New York City bike-sharing data.
 
----
-
 # Citibike NYC Analysis
 The citibike program in New York City seems to be thriving based on a recent analysis of bike ridesharing data from August 2019. Among the 2 million rides, bike sharing was largely dominated by male riders at 72.2%. The average trip duration tends to be similar for riders born 1960s-1980 (despite the hike in 1969). There is small upward trend among millennials.
 
@@ -11,9 +9,7 @@ Citibike NYC showed there is a potential to expand bike sharing services to Des 
 
 According to the De Moise's tourism website, there are three popular trails that would make ideal bike riding places for not only residents but tourists as well. Each trail is about a 6-9 mile ride which could attract bike enthusiasts. Lastly, De Moise's scenic outdoors, history, and culture could also attract ridership as they are eager to explore the riches of De Moise.
 
-Check out the dashboard for further analysis:
-[link to dashboard](https://public.tableau.com/profile/maria.carter4729#!/vizhome/Bikesharing_15871942778210/Story?publish=yes)
-
+Visit my ![dashboard](https://public.tableau.com/profile/maria.carter4729#!/vizhome/Bikesharing_15871942778210/Story?publish=yes) for further analysis. Here's a glimpse:
 ![BikeSharing Dashboard](BikeSharing_Dashboard.png)
 
 # Sources
