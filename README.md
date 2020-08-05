@@ -9,7 +9,7 @@ Citibike NYC showed there is a potential to expand bike sharing services to Des 
 
 According to the De Moise's tourism website, there are three popular trails that would make ideal bike riding places for not only residents but tourists as well. Each trail is about a 6-9 mile ride which could attract bike enthusiasts. Lastly, De Moise's scenic outdoors, history, and culture could also attract ridership as they are eager to explore the riches of De Moise.
 
-Visit my ![dashboard](https://public.tableau.com/profile/maria.carter4729#!/vizhome/Bikesharing_15871942778210/Story?publish=yes) for further analysis. Here's a sneak peak:
+Visit my [Citi Bikeshare NYC Dashboard](https://public.tableau.com/profile/maria.carter4729#!/vizhome/Bikesharing_15871942778210/Story?publish=yes) for further analysis. Here's a sneak peak:
 
 ![BikeSharing Dashboard](BikeSharing_Dashboard.png)
 
