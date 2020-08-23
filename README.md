@@ -1,5 +1,5 @@
 # Bikesharing
-Create worksheets, dashboards, stories from New York City bike-sharing data.
+Create worksheets, dashboards, and stories in Tableau to visualize New York City bikesharing services.
 
 # Citibike NYC Analysis
 The citibike program in New York City seems to be thriving based on a recent analysis of bike ridesharing data from August 2019. Among the 2 million rides, bike sharing was largely dominated by male riders at 72.2%. The average trip duration tends to be similar for riders born 1960s-1980 (despite the hike in 1969). There is small upward trend among millennials.
